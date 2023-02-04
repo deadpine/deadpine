@@ -12,7 +12,7 @@ Nowadays I am working as a freelancer and open for new projects.
 - [Portfolio](https://www.figma.com/file/mmbH1d55gxXUbLVRbcEq4o/Deadpine-Portfolio?node-id=0%3A1)
 - hey@deadpine.xyz
 
-[twitter](https://twitter.com/deadpine_xyz) • [behance](https://www.behance.net/deadpine) • [dribbble](https://dribbble.com/deadpine) • [swag(?)](https://store.deadpine.xyz)
+[twitter](https://twitter.com/deadpine_xyz) • [Goodreads](https://goodreads.com/deadpine) • [behance](https://www.behance.net/deadpine) • [dribbble](https://dribbble.com/deadpine) • [swag(?)](https://store.deadpine.xyz)
 
 <!---
 deadpine/deadpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
