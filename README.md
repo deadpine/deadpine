@@ -1,6 +1,6 @@
 ## Hello world
 
-I’m a graphic designer specialized in product, UI and branding.
+I’m a designer specialized in digital products and branding.
 
 Since 2017 I’ve been working in the crypto space. I was the lead designer at [OpenZeppelin](https://openzeppelin.com/) and worked with projects like [Flashbots](https://flashbots.net/), [ETHLatam](http://ethlatam.org/), [Decentraland](https://decentraland.org/), [Rewilder](https://app.rewilder.xyz/#) and [Ethernaut DAO](https://mint.ethernautdao.io/#about).
 
