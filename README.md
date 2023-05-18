@@ -9,7 +9,6 @@ Aside from a background in UI and branding I have experience in frontend, HTML, 
 Nowadays I am working as a freelancer and open for new projects.
 
 - [Website](https://deadpine.xyz/)
-- [Portfolio](https://www.figma.com/file/mmbH1d55gxXUbLVRbcEq4o/Deadpine-Portfolio?node-id=0%3A1)
 - hey@deadpine.xyz
 
 [twitter](https://twitter.com/deadpine_xyz) • [goodreads](https://goodreads.com/deadpine) • [behance](https://www.behance.net/deadpine) • [dribbble](https://dribbble.com/deadpine) • [swag(?)](https://store.deadpine.xyz)
