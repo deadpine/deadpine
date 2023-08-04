@@ -1,12 +1,10 @@
 ## Hello world
 
-I’m a designer specialized in digital products and branding.
+Deadpine is a designer working at the intersection of product design and brand identity. Since 2017 she has been actively involved in the crypto space. She was the lead designer at [OpenZeppelin](https://openzeppelin.com/) and worked with projects like [Flashbots](https://flashbots.net/), [ETHLatam](http://ethlatam.org/), [Decentraland](https://decentraland.org/), [Rewilder](https://app.rewilder.xyz/#) and [Ethernaut DAO](https://mint.ethernautdao.io/#about).
 
-Since 2017 I’ve been working in the crypto space. I was the lead designer at [OpenZeppelin](https://openzeppelin.com/) and worked with projects like [Flashbots](https://flashbots.net/), [ETHLatam](http://ethlatam.org/), [Decentraland](https://decentraland.org/), [Rewilder](https://app.rewilder.xyz/#) and [Ethernaut DAO](https://mint.ethernautdao.io/#about).
+Aside from a background in UI and branding she have experience in frontend, HTML, CSS, React and Svelte.
 
-Aside from a background in UI and branding I have experience in frontend, HTML, CSS, React and Svelte.
-
-Nowadays I am working as a freelancer and open for new projects.
+Nowadays she works as a freelancer and is open for new projects.
 
 - [Website](https://deadpine.xyz/)
 - hey@deadpine.xyz
