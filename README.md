@@ -11,7 +11,7 @@ Nowadays she works as a freelancer and is open for new projects.
 - [Website](https://deadpine.xyz/)
 - hey@deadpine.xyz
 
-[twitter](https://twitter.com/deadpine_xyz) • [goodreads](https://goodreads.com/deadpine) • [behance](https://www.behance.net/deadpine) • [dribbble](https://dribbble.com/deadpine) • [swag(?)](https://store.deadpine.xyz)
+[twitter](https://twitter.com/deadpine_xyz) • [goodreads](https://goodreads.com/deadpine) • [behance](https://www.behance.net/deadpine) • [dribbble](https://dribbble.com/deadpine) • [swag](https://store.deadpine.xyz)
 
 <!---
 deadpine/deadpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
