@@ -9,7 +9,7 @@ In addition to my design background, I have experience in frontend development, 
 
 Beyond my professional pursuits, I have a keen interest in anthropology, biology, behavioral science, color theory, architecture, scenography, and pottery. I am part of the Fuego Austral community, collaborating with others to bring art to life and cultivate meaningful offline connections. 
 
-- hey@deadpine.xyz
+I invite you to email me at hey@deadpine.xyz and discuss shared interests or potential collaborations :)
 
 [website](https://deadpine.xyz/) • [goodreads](https://goodreads.com/deadpine) • [twitter](https://twitter.com/deadpine_xyz) • [swag](https://store.deadpine.xyz)
 
