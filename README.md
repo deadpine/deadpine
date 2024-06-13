@@ -7,6 +7,8 @@ I've had the privilege of collaborating as a designer with projects like [OpenZe
 
 In addition to my design background, I have experience in frontend development, including HTML, CSS, React, and Svelte. I enjoy bringing my designs to life through coding.
 
+Beyond my professional pursuits, I have a keen interest in anthropology, biology, behavioral science, color theory, architecture, scenography, and pottery. I am part of the Fuego Austral community, collaborating with others to bring art to life and cultivate meaningful offline connections. 
+
 - hey@deadpine.xyz
 
 [website](https://deadpine.xyz/) • [goodreads](https://goodreads.com/deadpine) • [twitter](https://twitter.com/deadpine_xyz) • [swag](https://store.deadpine.xyz)
