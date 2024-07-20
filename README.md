@@ -1,4 +1,4 @@
-Seeking beauty while striving to understand the complexities of the world.  
+#### Seeking beauty while striving to understand the complexities of the world.  
 
 For 10 years my journey has intertwined product design and brand identity with technology, mostly in crypto. With Bitcoin and Ethereum I discovered an opportunity to work fostering an open economic system based on freedom and responsibility.
 
