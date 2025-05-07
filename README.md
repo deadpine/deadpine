@@ -3,7 +3,7 @@
 For 10+ years my journey intertwined product design and brand identity with technology, mostly in crypto. With Bitcoin and Ethereum I discovered an opportunity to work fostering an open economic system based on freedom and responsibility.
 
 I've collaborated with projects like [OpenZeppelin](https://openzeppelin.com/), [Flashbots](https://flashbots.net/), [Decentraland](https://decentraland.org/), [ETHLatam](http://ethlatam.org/), 
-[Forta](https://forta.org/), [Exactly](https://x.com/deadpine_xyz/status/1631379467909079061), [Ethernaut DAO](https://mint.ethernautdao.io/#about) and [Rewilder](https://rewilder.xyz/).
+[Exactly](https://x.com/deadpine_xyz/status/1631379467909079061), [Ethernaut DAO](https://mint.ethernautdao.io/#about) and [Rewilder](https://rewilder.xyz/).
 
 I enjoy bringing my designs to life through coding. I have experience in frontend development, including HTML, CSS, React, and Svelte.
 
