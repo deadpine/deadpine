@@ -11,7 +11,7 @@ However, not everything is about technology.
 
 Beyond my professional pursuits, I am interested in biology, anthropology, behavioral science, color theory, architecture, scenography, and ceramics. I'm part of the Fuego Austral community, bringing art to life and cultivating meaningful offline connections.
 
-I invite you to email me at hey@deadpine.xyz and discuss shared interests or potential collaborations :)
+Email me at hey@deadpine.xyz to discuss shared interests or potential collaborations :)
 
 [website](https://deadpine.xyz/) • [goodreads](https://goodreads.com/deadpine) • [twitter](https://twitter.com/deadpine_xyz) • [swag](https://store.deadpine.xyz)
 
